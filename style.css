@@ -174,21 +174,29 @@ header .search-bar-container label:hover{
   width: 100%;
   position: relative;
 }
-.bg-container .box1{
-  height: 130px;
-  width: 950px;
-  background-color: #fff;
-  margin-top: 500px;
-  padding-top: 150px;
- margin-left: 350px;
-  position: absolute;
-}
-.row{
-  background-color: blue;
-}
-.row .col-1{
-  text-align: center;
-  
+
+#box_container{
+  width:950px;
+  height:150px;
+  background-color: white;
+  box-shadow: 6px 10px 15px black;
+  margin-left: 200px;
+  margin-top:380px;
 }
 
-
+.reg-input-1{
+  width: 20%;
+  float: left;
+}
+.reg-input-2{
+  width: 20%;
+  float: left;
+}
+.reg-input-3{
+  width: 20%;
+  float: left;
+}
+.reg-input-4{
+  width: 20%;
+  float: left;
+}
